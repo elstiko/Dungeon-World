@@ -2,7 +2,7 @@
 layout: default
 title: Thief
 parent: Classes
-nav_order: 9
+nav_order: 15
 ---
 
 # The Thief

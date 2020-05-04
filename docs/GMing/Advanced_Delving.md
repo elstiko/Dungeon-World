@@ -2,7 +2,7 @@
 layout: default
 title: Advanced Delving
 parent: GMing
-nav_order: 5
+nav_order: 22
 ---
 
 # Advanced Delving

@@ -2,7 +2,7 @@
 layout: default
 title: The World
 parent: GMing
-nav_order: 4
+nav_order: 21
 ---
 
 # The World

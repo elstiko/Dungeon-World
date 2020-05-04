@@ -2,7 +2,7 @@
 layout: default
 title: Ranger
 parent: Classes
-nav_order: 8
+nav_order: 14
 ---
 # The Ranger
 

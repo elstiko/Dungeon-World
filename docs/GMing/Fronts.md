@@ -2,7 +2,7 @@
 layout: default
 title: Fronts
 parent: GMing
-nav_order: 3
+nav_order: 20
 ---
 # Fronts
 

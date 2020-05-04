@@ -2,7 +2,7 @@
 layout: default
 title: Wizard
 parent: Classes
-nav_order: 10
+nav_order: 16
 ---
 
 # The Wizard

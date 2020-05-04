@@ -2,7 +2,7 @@
 layout: default
 title: Fighter
 parent: Classes
-nav_order: 5
+nav_order: 11
 ---
 
 # The Fighter

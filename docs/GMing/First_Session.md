@@ -2,7 +2,7 @@
 layout: default
 title: First Session
 parent: GMing
-nav_order: 2
+nav_order: 19
 ---
 
 # First Session

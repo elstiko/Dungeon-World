@@ -2,7 +2,7 @@
 layout: default
 title: Bard
 parent: Classes
-nav_order: 2
+nav_order: 7
 ---
 
 # The Bard

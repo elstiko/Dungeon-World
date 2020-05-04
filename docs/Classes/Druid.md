@@ -2,7 +2,7 @@
 layout: default
 title: Druid
 parent: Classes
-nav_order: 5
+nav_order: 10
 ---
 
 # The Druid
