@@ -2,7 +2,7 @@
 layout: default
 title: Barbarian
 parent: Classes
-nav_order: 6
+nav_order: 7
 ---
 
 # The Barbarian

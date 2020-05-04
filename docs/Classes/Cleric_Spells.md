@@ -2,7 +2,7 @@
 layout: default
 title: Cleric Spells
 parent: Classes
-nav_order: 9
+nav_order: 10
 ---
 # Cleric Spells
 
