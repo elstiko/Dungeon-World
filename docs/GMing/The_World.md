@@ -1,4 +1,11 @@
-# The world
+---
+layout: default
+title: The World
+parent: GMing
+nav_order: 4
+---
+
+# The World
 
 Much of the adventuring life is spent in dusty, forgotten tombs or in places
 of terror and life-threatening danger. It’s commonplace to awaken from a short

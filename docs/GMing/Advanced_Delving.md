@@ -1,3 +1,10 @@
+---
+layout: default
+title: Advanced Delving
+parent: GMing
+nav_order: 5
+---
+
 # Advanced Delving
 
 Dungeon World portrays a specific kind of fantasy adventure—one with elves and

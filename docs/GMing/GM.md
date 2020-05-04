@@ -1,3 +1,9 @@
+---
+layout: default
+title: GMing
+nav_order: 3
+has_children: true
+---
 # The GM
 
 There are many different fantasy genres, each with their own style or advice

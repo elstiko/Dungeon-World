@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fronts
+parent: GMing
+nav_order: 3
+---
 # Fronts
 
 Fronts are secret tomes of GM knowledge. Each is a collection of linked

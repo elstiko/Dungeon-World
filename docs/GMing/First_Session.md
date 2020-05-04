@@ -1,3 +1,10 @@
+---
+layout: default
+title: First Session
+parent: GMing
+nav_order: 2
+---
+
 # First Session
 
 The first session of a game of Dungeon World begins with character creation.
