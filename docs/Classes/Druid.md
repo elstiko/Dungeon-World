@@ -1,3 +1,10 @@
+---
+layout: default
+title: Druid
+parent: Classes
+nav_order: 5
+---
+
 # The Druid
 
 Cast your eyes around the fire. What has brought you to these people, stinking

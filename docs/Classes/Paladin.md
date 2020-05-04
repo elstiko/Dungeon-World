@@ -1,3 +1,10 @@
+---
+layout: default
+title: Paladin
+parent: Classes
+nav_order: 7
+---
+
 # The Paladin
 
 Hell awaits. An eternity of torment in fire or ice or whatever best suits the

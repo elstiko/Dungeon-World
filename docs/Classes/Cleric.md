@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cleric
+parent: Classes
+nav_order: 3
+---
 # The Cleric
 
 The lands of Dungeon World are a gods-forsaken mess. They’re lousy with the

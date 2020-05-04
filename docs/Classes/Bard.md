@@ -1,3 +1,10 @@
+---
+layout: default
+title: Bard
+parent: Classes
+nav_order: 2
+---
+
 # The Bard
 
 The poems say an adventurer’s life is all open roads and the glory of coin and

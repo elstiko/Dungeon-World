@@ -1,3 +1,10 @@
+---
+layout: default
+title: Wizard
+parent: Classes
+nav_order: 10
+---
+
 # The Wizard
 
 Dungeon World has rules. Not the laws of men or the rule of some petty tyrant.

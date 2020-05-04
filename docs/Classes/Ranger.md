@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ranger
+parent: Classes
+nav_order: 8
+---
 # The Ranger
 
 These city-born folk you travel with. Have they heard the call of the wolf?

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Thief
+parent: Classes
+nav_order: 9
+---
+
 # The Thief
 
 You’ve heard them, sitting around the campfire. Bragging about this battle or

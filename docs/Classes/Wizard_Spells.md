@@ -1,3 +1,10 @@
+---
+layout: default
+title: Wizard Spells
+parent: Classes
+nav_order: 11
+---
+
 # Wizard Spells
 
 ## Cantrips

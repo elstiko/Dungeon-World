@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cleric Spells
+parent: Classes
+nav_order: 4
+---
 # Cleric Spells
 
 ## Rotes

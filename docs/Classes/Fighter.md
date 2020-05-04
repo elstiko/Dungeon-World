@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fighter
+parent: Classes
+nav_order: 5
+---
+
 # The Fighter
 
 It’s a thankless job—living day to day by your armor and the skill of your
