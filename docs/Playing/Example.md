@@ -1,3 +1,10 @@
+---
+layout: default
+title: Example of Play
+parent: Introduction
+nav_order: 3
+---
+
 # Example of Play
 
 I’m GMing a game with Isaac \(playing Omar\), Ben \(playing Brianne\), Amy

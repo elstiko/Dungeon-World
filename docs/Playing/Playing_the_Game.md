@@ -1,3 +1,10 @@
+---
+layout: default
+title: Playing the Game
+parent: Introduction
+nav_order: 2
+---
+
 # Playing the Game
 
 Playing Dungeon World means having a conversation; somebody says something,

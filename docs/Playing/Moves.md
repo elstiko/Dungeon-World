@@ -1,3 +1,10 @@
+---
+layout: default
+title: Moves
+parent: Introduction
+nav_order: 5
+---
+
 # Basic Moves
 
 ## Hack and Slash

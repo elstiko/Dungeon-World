@@ -1,3 +1,10 @@
+---
+layout: default
+title: Character Creation
+parent: Introduction
+nav_order: 4
+---
+
 # Character Creation
 
 Making Dungeon World characters is quick and easy. You should all create your
