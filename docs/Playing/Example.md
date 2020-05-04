@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Example of Play
-parent: Introduction
+parent: Playing
 nav_order: 3
 ---
 

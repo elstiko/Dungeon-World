@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moves
-parent: Introduction
+parent: Playing
 nav_order: 5
 ---
 

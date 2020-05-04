@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Playing the Game
-parent: Introduction
+parent: Playing
 nav_order: 2
 ---
 

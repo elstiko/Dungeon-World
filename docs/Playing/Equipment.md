@@ -1,3 +1,9 @@
+---
+layout: default
+title: Equipment
+parent: Playing
+nav_order: 6
+---
 # Equipment
 
 The musty tombs and forgotten treasure troves of the world are filled with

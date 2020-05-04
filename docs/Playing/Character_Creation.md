@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Character Creation
-parent: Introduction
+parent: Playing
 nav_order: 4
 ---
 
