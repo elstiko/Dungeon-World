@@ -1,7 +1,8 @@
 ---
 layout: default
-title: 404
-nav_exclude: true
+title: Thanks
+parent: Appendices
+nav_order: 39
 ---
 # Basic Moves
 
