@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Navigation Structure
-nav_order: 5
+title: 404
+nav_exclude: true
 ---
 
 # Navigation Structure
