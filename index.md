@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 404
+title: Free Rules
 nav_exclude: true
 ---
 
