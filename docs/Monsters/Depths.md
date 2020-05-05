@@ -6,11 +6,12 @@ nav_order: 32
 ---
 # Lower Depths
 
-Aboleth Group, Huge, Intelligent
+## Aboleth
+_Group, Huge, Intelligent_
 
 Tentacle \(d10+3 damage\) 18 HP 0 Armor
 
-Reach
+*Reach*
 
 **Special Qualities:** Telepathy
 
@@ -27,11 +28,13 @@ and guide their pallid minions to do their bidding. _Instinct_: To command
   * Turn minions on them
   * Put a plan in motion
 
-Apocalypse Dragon Solitary, Huge, Magical, Divine
+## Apocalypse Dragon 
+
+*Solitary, Huge, Magical, Divine*
 
 Bite \(b\[2d12\]+9 damage, 4 piercing\) 26 HP 5 Armor
 
-Reach, Forceful, Messy
+*Reach, Forceful, Messy*
 
 **Special Qualities:** Inch-thick metal hide, Supernatural knowledge, Wings
 
@@ -48,11 +51,13 @@ the world
   * Breathe forth the elements
   * Act with perfect foresight
 
-Chaos Spawn Solitary, Amorphous
+## Chaos Spawn 
+
+*Solitary, Amorphous*
 
 Chaotic touch \(d10 damage\) 19 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Chaos form
 
@@ -67,11 +72,13 @@ order
   * Rewrite reality
   * Unleash chaos from containment
 
-Chuul Group, Large, Cautious
+## Chuul 
+
+*Group, Large, Cautious*
 
 Claws \(d8+1 damage, 3 piercing\) 10 HP 4 Armor
 
-Close, Reach, Messy
+*Close, Reach, Messy*
 
 **Special Qualities:** Amphibious
 
@@ -85,11 +92,13 @@ _Instinct_: To split
   * Split something in two with mighty claws
   * Retreat into water
 
-Deep Elf Assassin Group, Intelligent, Organized
+## Deep Elf Assassin 
+
+*Group, Intelligent, Organized*
 
 Poisoned blade \(d8 damage, 1 piercing\) 6 HP 1 Armor
 
-Close
+*Close*
 
 It was not so simple a thing as a war over religion or territory. No
 disagreement of queens led to the great sundering of the elves. It was
@@ -107,11 +116,13 @@ vengeance. _Instinct_: To spite the surface races
   * Unleash an ancient spell
   * Call reinforcements
 
-Deep Elf Swordmaster Group, Intelligent, Organized
+## Deep Elf Swordmaster
+
+*Group, Intelligent, Organized*
 
 Barbed blade \(b\[2d8\]+2 damage, 1 piercing\) 6 HP 2 Armor
 
-Close
+*Close*
 
 The deep elves lost the sweetness and gentle peace of their bright cousins
 ages ago, but they did not abandon grace. They move with a swiftness and
@@ -125,11 +136,13 @@ pain are their currency. _Instinct_: To punish unbelievers
   * Inflict pain beyond measure
   * Use the dark to advantage
 
-Deep Elf Priest Solitary, Divine, Intelligent, Organized
+## Deep Elf Priest 
+
+*Solitary, Divine, Intelligent, Organized*
 
 Smite \(d10+2 damage\) 14 HP 0 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Divine connection
 
@@ -146,11 +159,13 @@ _Instinct_: To pass on divine vengeance
   * Rally the deep elves
   * Pass on divine knowledge
 
-Dragon Solitary, Huge, Terrifying, Cautious, Hoarder
+## Dragon 
+
+*Solitary, Huge, Terrifying, Cautious, Hoarder*
 
 Bite \(b\[2d12\]+5 damage, 4 piercing\) 16 HP 5 Armor
 
-Reach, Messy
+*Reach, Messy*
 
 **Special Qualities:** Elemental blood, Wings
 
@@ -161,11 +176,13 @@ offer. _Instinct_: To rule
   * Demand tribute
   * Act with disdain
 
-Gray Render Solitary, Large
+## Gray Render 
+
+*Solitary, Large*
 
 Rending claws \(d10+3 damage, 3 piercing\) 16 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 On its own, the render is a force of utter destruction. Huge and leathery,
 with a maw of unbreakable teeth and claws to match, the render seems to enjoy
@@ -178,11 +195,13 @@ render means certain riches, if you survive to sell it. _Instinct_: To serve
 
   * Tear something apart
 
-Magmin Horde, Intelligent, Organized, Hoarder
+## Magmin 
+
+*Horde, Intelligent, Organized, Hoarder*
 
 Flaming hammer \(d6+2 damage\) 7 HP 4 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Fiery blood
 
@@ -200,11 +219,13 @@ visiting the magmin is a game of risk and reward. _Instinct_: To craft
   * Strike with fire or magic
   * Provide just the right item, at a price
 
-Minotaur Solitary, Large
+## Minotaur 
+
+*Solitary, Large*
 
 Axe \(d10+1 damage\) 16 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Unerring sense of direction
 
@@ -217,11 +238,13 @@ _Instinct_: To contain
   * Confuse them
   * Make them lost
 
-Naga Solitary, Intelligent, Organized, Hoarder, Magical
+## Naga 
+
+*Solitary, Intelligent, Organized, Hoarder, Magical*
 
 Bite \(d10 damage\) 12 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 Ambitious and territorial above nearly all else, the naga are very rarely
 found without a well-formed and insidious cult of followers. You’ll see it in
@@ -237,11 +260,13 @@ to be reckoned with. _Instinct_: To lead
   * Use old magic
   * Offer a deal or bargain
 
-Salamander Horde, Large, Intelligent, Organized, Planar
+## Salamander 
+
+*Horde, Large, Intelligent, Organized, Planar*
 
 Flaming spear \(b\[2d6\]+3 damage\) 7 HP 3 Armor
 
-Close, Reach, Near
+*Close, Reach, Near*
 
 **Special Qualities:** Burrowing
 

@@ -5,7 +5,7 @@ parent: Classes
 nav_order: 14
 ---
 
-# The Paladin
+# The Immolator
 
 I love the word 'burn'.
 Like imagine,
@@ -63,14 +63,14 @@ When you **conjure a weapon of pure flame**, roll+CON. On a 10+ choose two of th
   * thrown, near
   * +1 damage
   * remove the dangerous tag
-  
+
 ### Fighting Fire with Fire
 
 When you take damage, and that damage is odd (after armor) the flames within you come to your aid. Roll 1d4 and either add that many uses to your burning brand (if active), take that result forward to summon your burning brand, or reduce the damage by that amount, your choice.
 
 ### Give Me Fuel, Give Me Fire
 
-When you **gaze intensely into someones eyes**, you may ask their player “what fuels the flames of your desire?” they’ll answer with the truth, even if the character does not know or would otherwise keep this hidden.
+When you **gaze intensely into someone's eyes**, you may ask their player “what fuels the flames of your desire?” they’ll answer with the truth, even if the character does not know or would otherwise keep this hidden.
 
 ### Zuko Style
 
@@ -125,7 +125,7 @@ I cast something into the fire for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and still owe 
 When you **stare into a source of fire**, looking for answers, roll+WIS. On a hit, the GM will tell you something new and interesting about the current situation. On a 10+, the GM will give you good detail. On a 7–9, the GM will give you an impression. If you already know all there is to know, the GM will tell you that.
 
 ### Burns Twice As Bright
-When you ****channel the flames of fate, you may treat a missed roll as a 7-9 or a 7-9 result as a 10+. This may be a roll you or another character has made. Tell the GM something you’ve lost; an emotion, a memory or some innate piece of your being. You may not use this move again until you’ve used Burns Half As Long.
+When you **channel the flames of fate**, you may treat a missed roll as a 7-9 or a 7-9 result as a 10+. This may be a roll you or another character has made. Tell the GM something you’ve lost; an emotion, a memory or some innate piece of your being. You may not use this move again until you’ve used Burns Half As Long.
 
 ### Burns Half As Long
 _You gain this move when you gain Burns Twice As Bright_
