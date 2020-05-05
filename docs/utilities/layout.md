@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Layout
-parent: Utilities
-nav_order: 2
+title: 404
+nav_exclude: true
 ---
 
 # Layout Utilities
