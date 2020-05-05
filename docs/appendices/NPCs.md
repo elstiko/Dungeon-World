@@ -2,7 +2,7 @@
 layout: default
 title: NPCs
 parent: Appendices
-nav_order: 36
+nav_order: 37
 ---
 # Instant NPCs
 
