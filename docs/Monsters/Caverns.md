@@ -6,11 +6,13 @@ nav_order: 26
 ---
 # Cavern Dwellers
 
-Ankheg Group, Large
+## Ankheg 
+
+*Group, Large*
 
 Bite \(d8+1 damage\) 10 HP 3 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Burrowing
 
@@ -25,11 +27,13 @@ an ankheg living under your corn field. _Instinct_: To undermine
   * Burst from the earth
   * Spray forth acid, eating away at metal and flesh
 
-Cave Rat Horde, Small
+## Cave Rat 
+
+*Horde, Small*
 
 Gnaw \(d6 damage 1 piercing\) 7 HP 1 Armor
 
-Close, Messy
+*Close, Messy*
 
 Who hasn’t seen a rat before? It’s like that, but nasty and big and not afraid
 of you anymore. Maybe this one was a cousin to that one you caught in a trap
@@ -39,11 +43,13 @@ looking for a little ratty revenge. _Instinct_: To devour
   * Swarm
   * Rip something \(or someone\) apart
 
-Choker Solitary, Stealthy, Intelligent
+## Choker 
+
+*Solitary, Stealthy, Intelligent*
 
 Choke \(d10 damage\) 15 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Flexible
 
@@ -59,11 +65,13 @@ light
   * Hold someone, wringing the breath from them
   * Fling a held creature
 
-Cloaker Solitary, Stealthy
+## Cloaker 
+
+*Solitary, Stealthy*
 
 Constrict \(d10 damage ignores armor\) 12 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Looks like a cloak
 
@@ -73,11 +81,13 @@ it\! No\! GARETH\! _Instinct_: To engulf
 
   * Engulf the unsuspecting
 
-Dwarven Warrior Horde, Organized
+## Dwarven Warrior 
+
+*Horde, Organized*
 
 Axe \(d6 damage\) 7 HP 2 Armor
 
-Close
+*Close*
 
 For ages, men believed all dwarves were male and all were of this ilk: stoic
 and proud warriors. Axe-wielding and plate-wearing. Stout bearded battle-
@@ -91,11 +101,13 @@ very long. _Instinct_: To defend
   * Drive them back
   * Call up reinforcements
 
-Earth Elemental Solitary, Huge
+## Earth Elemental 
+
+*Solitary, Huge*
 
 Smash \(d10+5 damage\) 27 HP 4 Armor
 
-Reach, Forceful
+*Reach, Forceful*
 
 **Special Qualities:** Made of stone
 
@@ -109,11 +121,13 @@ _Instinct_: To show the strength of earth
   * Turn the ground into a weapon
   * Meld into stone
 
-Fire Beetle Horde, Small
+## Fire Beetle 
+
+*Horde, Small*
 
 Flames \(d6 damage ignores armor\) 3 HP 3 Armor
 
-Near
+*Near*
 
 **Special Qualities:** Full of flames
 
@@ -129,11 +143,13 @@ conflagration of fire beetles. _Instinct_: To enflame
   * Burst from the earth
   * Spray forth flames
 
-Gargoyle Horde, Stealthy, Hoarder
+## Gargoyle 
+
+*Horde, Stealthy, Hoarder*
 
 Claw \(d6 damage\) 3 HP 2 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Wings
 
@@ -149,11 +165,13 @@ careful, they’re hard to spot and tend to move in packs. _Instinct_: To guard
   * Take to the air
   * Blend into stonework
 
-Gelatinous Cube Solitary, Large, Stealthy, Amorphous
+## Gelatinous Cube 
+
+*Solitary, Large, Stealthy, Amorphous*
 
 Engulf \(d10+1 damage ignores armor\) 20 HP 1 Armor
 
-Hand
+*Hand*
 
 **Special Qualities:** Transparent
 
@@ -167,11 +185,13 @@ To clean
   * Fill an apparently empty space
   * Dissolve
 
-Goblin Horde, Small, Intelligent, Organized
+## Goblin 
+
+*Horde, Small, Intelligent, Organized*
 
 Spear \(d6 damage\) 3 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 Nobody seems to know where these things came from. Elves say they’re the
 dwarves’ fault—dredged up from a hidden place beneath the earth. Dwarves say
@@ -184,11 +204,13 @@ There’s just too damn many of them. _Instinct_: To multiply
   * Call more goblins
   * Retreat and return with \(many\) more
 
-Goblin Orkaster Solitary, Small, Magical, Intelligent, Organized
+## Goblin Orkaster 
+
+*Solitary, Small, Magical, Intelligent, Organized*
 
 Acid orb \(d10+1 damage ignores armor\) 12 HP 0 Armor
 
-Near, Far
+*Near, Far*
 
 Oh lord, who taught them magic? _Instinct_: To tap power beyond their stature
 
@@ -196,11 +218,13 @@ Oh lord, who taught them magic? _Instinct_: To tap power beyond their stature
   * Pour forth magical chaos
   * Use other goblins for shields
 
-Goliath Group, Huge, Organized, Intelligent
+## Goliath 
+
+*Group, Huge, Organized, Intelligent*
 
 Mace \(d8+7 damage\) 14 HP 1 Armor
 
-Reach, Forceful
+*Reach, Forceful*
 
 They dwell beneath the earth because they do not belong above it any longer.
 An undying race of mighty titans fled the plains and mountains in ages
@@ -212,11 +236,13 @@ theirs. _Instinct_: To retake
   * Shake the earth
   * Retreat, only to come back stronger
 
-Otyugh Solitary, Large
+## Otyugh 
+
+*Solitary, Large*
 
 Tentacles \(d10+3 damage\) 20 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 **Special Qualities:** Filth Fever
 
@@ -232,11 +258,13 @@ your victory may be short lived. _Instinct_: To befoul
   * Infect someone with filth fever
   * Fling someone or something
 
-Maggot-Squid Horde, Small
+## Maggot-Squid 
+
+*Horde, Small*
 
 Chew \(d6 damage\) 3 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Amphibious, Paralyzing Tentacles
 
@@ -248,11 +276,13 @@ let it get to that. _Instinct_: To eat
 
   * Paralyze with a touch
 
-Purple Worm Solitary, Huge
+## Purple Worm 
+
+*Solitary, Huge*
 
 Bite \(d10+5 damage\) 20 HP 2 Armor
 
-Reach, Forceful
+*Reach, Forceful*
 
 **Special Qualities:** Burrowing
 
@@ -266,11 +296,13 @@ To consume
   * Swallow whole
   * Tunnel through stone and earth
 
-Roper Solitary, Large, Stealthy, Intelligent
+## Roper 
+
+*Solitary, Large, Stealthy, Intelligent*
 
 Bite \(d10+1 damage\) 16 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Rock-like Flesh
 
@@ -286,11 +318,13 @@ looks like a rock. _Instinct_: To ambush
   * Disarm a foe
   * Chew on someone
 
-Rot Grub Horde, Tiny
+## Rot Grub 
+
+*Horde, Tiny*
 
 Burrow \(d6-2 damage\) 3 HP 0 Armor
 
-Hand
+*Hand*
 
 **Special Qualities:** Burrow into flesh
 
@@ -302,11 +336,13 @@ _Instinct_: To infect
   * Lay eggs
   * Burst forth from an infected creature
 
-Spiderlord Solitary, Large, Devious, Intelligent
+## Spiderlord 
+
+*Solitary, Large, Devious, Intelligent*
 
 Mandibles \(d8+4 damage\) 16 HP 3 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Burrowing
 
@@ -316,11 +352,13 @@ _Instinct_: To weave webs \(literal and metaphorical\)
   * Enmesh in webbing
   * Put a plot into motion
 
-Troglodyte Group, Organized
+## Troglodyte 
+
+*Group, Organized*
 
 Club \(d8 damage\) 10 HP 1 Armor
 
-Close
+*Close*
 
 Long-forgotten, our last remaining ancestors dwell in caves in the wild parts
 of the world. Driven away by our cities and villages, our iron swords and our

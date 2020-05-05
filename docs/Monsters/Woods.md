@@ -6,11 +6,13 @@ nav_order: 29
 ---
 # Dark Woods
 
-Assassin Vine Solitary, Stealthy, Amorphous
+## Assassin Vine 
+
+*Solitary, Stealthy, Amorphous*
 
 Thorns \(d10 damage, 1 piercing\) 15 HP 1 Armor
 
-Close, Reach, Messy
+*Close, Reach, Messy*
 
 **Special Qualities:** Plant
 
@@ -27,11 +29,13 @@ prey into the underbrush. Mind your feet, traveller. _Instinct_: To grow
   * Shoot forth new growth
   * Attack the unwary
 
-Blink Dog Group, Small, Magical, Organized
+## Blink Dog 
+
+*Group, Small, Magical, Organized*
 
 Bite \(d8 damage\) 6 HP 4 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Illusion
 
@@ -50,11 +54,13 @@ unnatural things. _Instinct_: To hunt
   * Summon the pack
   * Move with amazing speed
 
-Centaur Horde, Large, Organized, Intelligent
+## Centaur 
+
+*Horde, Large, Organized, Intelligent*
 
 Bow \(d6+2 damage, 1 piercing\) 11 HP 1 Armor
 
-Close, Reach, Near
+*Close, Reach, Near*
 
 **Special Qualities:** Half-horse, Half-man
 
@@ -70,11 +76,13 @@ these apes and retake what is ours\!” _Instinct_: To rage
   * Fire a perfect bullseye
   * Move with unrelenting speed
 
-Chaos Ooze Solitary, Planar, Terrifying, Amorphous
+## Chaos Ooze 
+
+*Solitary, Planar, Terrifying, Amorphous*
 
 Warping touch \(d10 damage ignores armor\) 23 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Ooze, Fragments of other planes embedded in it
 
@@ -91,11 +99,13 @@ _Instinct_: To change
   * Cause a change in appearance or substance
   * Briefly bridge the planes
 
-Cockatrice Group, Small, Hoarder
+## Cockatrice 
+
+*Group, Small, Hoarder*
 
 Beak \(d8 damage\) 6 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Stone touch
 
@@ -113,11 +123,13 @@ sir?”_Instinct_: To defend the nest
 
   * Start a slow transformation to stone
 
-Dryad Solitary, Magical, Intelligent, Devious,
+## Dryad 
+
+*Solitary, Magical, Intelligent, Devious,*
 
 Crushing vines \(w\[2d8\]damage\) 12 HP 2 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Plant
 
@@ -136,11 +148,13 @@ for just a smile from such a creature. _Instinct_: To love nature passionately
   * Merge into a tree
   * Turn nature against them
 
-Eagle Lord Group, Large, Organized, Intelligent
+## Eagle Lord 
+
+*Group, Large, Organized, Intelligent*
 
 Talons \(b\[2d8\]+1 damage, 1 piercing\) 10 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Mighty wings
 
@@ -159,11 +173,13 @@ To rule the heights
   * Pull someone into the air
   * Call on ancient oaths
 
-Elvish Warrior Horde, Intelligent, Organized
+## Elvish Warrior 
+
+*Horde, Intelligent, Organized*
 
 Sword \(b\[2d6\] damage\) 3 HP 2 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Sharp sense
 
@@ -183,11 +199,13 @@ perfection
   * Set ancient plans in motion
   * Use the woods to advantage
 
-Elvish High Arcanist Solitary, Magical, Intelligent, Organized
+## Elvish High Arcanist 
+
+*Solitary, Magical, Intelligent, Organized*
 
 Arcane fire \(d10 damage ignores armor\) 12 HP 0 Armor
 
-Near, Far
+*Near, Far*
 
 **Special Qualities:** Sharp senses
 
@@ -204,11 +222,13 @@ power
   * Work the magic that nature demands
   * Cast forth the elements
 
-Griffin Group, Large, Organized
+## Griffin 
+
+*Group, Large, Organized*
 
 Talons \(d8+3 damage\) 10 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 **Special Qualities:** Wings
 
@@ -225,11 +245,13 @@ and will answer them with a sharp beak and talons. _Instinct_: To serve allies
   * Carry an ally aloft
   * Strike from above
 
-Hill Giant Group, Huge, Intelligent, Organized
+## Hill Giant 
+
+*Group, Huge, Intelligent, Organized*
 
 Thrown rocks \(d8+3 damage\) 10 HP 1 Armor
 
-Reach, Near, Far, Forceful
+*Reach, Near, Far, Forceful*
 
 Ever seen an ogre before? Bigger than that. Dumber and meaner, too. Hope you
 like having cows thrown at you. _Instinct_: Ruin everything.
@@ -238,11 +260,13 @@ like having cows thrown at you. _Instinct_: Ruin everything.
   * Do something stupid
   * Shake the earth
 
-Ogre Group, Large, Intelligent
+## Ogre 
+
+*Group, Large, Intelligent*
 
 Club \(d8+5 damage\) 10 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 A tale, then. Somewhere in the not-so-long history of the mannish race there
 was a divide. In days when men were merely dwellers-in-the-mud with no magic
@@ -259,11 +283,13 @@ the ogres remember. _Instinct_: To return the world to darker days
   * Fly into a rage
   * Take something by force
 
-Razor Boar Solitary
+## Razor Boar 
+
+*Solitary*
 
 Tusks \(d10 damage, 3 piercing\) 16 HP 1 Armor
 
-Close, Messy
+*Close, Messy*
 
 The tusks of the razor boar shred metal plate like so much tissue. Voracious,
 savage and unstoppable, they tower over their mundane kin. To kill one? A
@@ -274,11 +300,13 @@ hunter than he? _Instinct_: To shred
   * Rip them apart
   * Rend armor and weapons
 
-Satyr Group, Devious, Magical, Hoarder
+## Satyr 
+
+*Group, Devious, Magical, Hoarder*
 
 Charge \(w\[2d8\] damage\) 10 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Enchantment
 
@@ -294,11 +322,13 @@ hold a grudge like the stubborn satyr. _Instinct_: To enjoy
   * Force gifts upon them
   * Play jokes with illusions and tricks
 
-Sprite Horde, Tiny, Stealthy, Magical, Devious, Intelligent
+## Sprite 
+
+*Horde, Tiny, Stealthy, Magical, Devious, Intelligent*
 
 Dagger \(w\[2d4\] damage\) 3 HP 0 Armor
 
-Hand
+*Hand*
 
 **Special Qualities:** Wings, Fey Magic
 
@@ -309,11 +339,13 @@ _Instinct_: To play tricks
   * Confuse their senses
   * Craft an illusion
 
-Treant Group, Huge, Intelligent, Amorphous
+## Treant 
+
+*Group, Huge, Intelligent, Amorphous*
 
 Walloping branches \(d10+5 damage\) 21 HP 4 Armor
 
-Reach, Forceful
+*Reach, Forceful*
 
 **Special Qualities:** Wooden
 
@@ -335,11 +367,13 @@ _Instinct_: To protect nature
   * Set down roots
   * Spread old magic
 
-Werewolf Solitary, Intelligent
+## Werewolf 
+
+*Solitary, Intelligent*
 
 Bite \(d10+2 damage, 1 piercing\) 12 HP 1 Armor
 
-Close, Messy
+*Close, Messy*
 
 **Special Qualities:** Weak to silver
 
@@ -358,11 +392,13 @@ You must end this. For me.” _Instinct_: To shed the appearance of civilization
   * Strike from within
   * Hunt like man and beast
 
-Worg Horde, Organized
+## Worg 
+
+*Horde, Organized*
 
 Bite \(d6 damage\) 3 HP 1 Armor
 
-Close
+*Close*
 
 As horses are to the civil races, so go the worg to the goblins. Mounts,
 fierce in battle, ridden by only the bravest and most dangerous, are found and
