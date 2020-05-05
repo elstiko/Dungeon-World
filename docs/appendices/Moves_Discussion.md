@@ -1,3 +1,8 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+---
 # Basic Moves
 
 This chapter contains the moves that are available to all characters. These
