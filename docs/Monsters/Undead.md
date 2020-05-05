@@ -6,11 +6,13 @@ nav_order: 28
 ---
 # Undead Legions
 
-Abomination Solitary, Large, Construct, Terrifying
+## Abomination 
+
+*Solitary, Large, Construct, Terrifying*
 
 Slam \(d10+3 damage\) 20 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 **Special Qualities:** Many limbs, heads, and so on
 
@@ -26,11 +28,13 @@ knows no master. _Instinct_: To end life
   * Tear flesh apart
   * Spill forth putrid guts
 
-Banshee Solitary, Magical, Intelligent
+## Banshee 
+
+*Solitary, Magical, Intelligent*
 
 Scream \(d10 damage\) 16 HP 0 Armor
 
-Near
+*Near*
 
 **Special Qualities:** Insubstantial
 
@@ -48,11 +52,13 @@ well, that’s another question. _Instinct_: To get revenge
   * Unleash a skull-splitting noise
   * Disappear into the mists
 
-Devourer Solitary, Large, Intelligent, Hoarder
+## Devourer 
+
+*Solitary, Large, Intelligent, Hoarder*
 
 Smash \(d10+3 damage\) 16 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 Most folk know that the undead feed on flesh. The warmth, blood and living
 tissue continue their unholy existence. This is true for most of the mindless
@@ -68,11 +74,13 @@ creature? None dare ask for fear of finding out. _Instinct_: To feast on souls
   * Devour or trap dying soul
   * Bargain for a soul’s return
 
-Dragonbone Solitary, Huge
+## Dragonbone 
+
+*Solitary, Huge*
 
 Bite \(d10+3 damage, 3 piercing\) 20 HP 2 Armor
 
-Reach, Messy
+*Reach, Messy*
 
 Mystical sorcerers debate: is this creature truly undead or is it a golem made
 of a particularly rare and blasphemous material? The bones, sinews and scales
@@ -84,11 +92,13 @@ considerable evil to twist the remains of a dragon thus. _Instinct_: To serve
 
   * Attack unrelentingly
 
-Draugr Horde, Organized
+## Draugr 
+
+*Horde, Organized*
 
 Rusty sword \(d6+1 damage\) 7 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Icy touch
 
@@ -105,11 +115,13 @@ knew. _Instinct_: To take from the living
   * Freeze flesh
   * Call on the unworthy dead
 
-Ghost Solitary, Devious, Terrifying
+## Ghost 
+
+*Solitary, Devious, Terrifying*
 
 Phantom touch \(d6 damage\) 16 HP 0 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Insubstantial
 
@@ -126,11 +138,13 @@ _Instinct_: To haunt
   * Haunt a place of importance 
   * Offer information from the other side, at a price
 
-Ghoul Group
+## Ghoul 
+
+*Group*
 
 Talons \(d8 damage, 1 piercing\) 10 HP 1 Armor
 
-Close, Messy
+*Close, Messy*
 
 Hunger. Hunger hunger hunger. Desperate clinging void-stomach-emptiness
 hunger. Sharp talons to rend flesh and teeth to tear and crack bones and suck
@@ -142,11 +156,13 @@ all make for such delicious meat. _Instinct_: To eat
   * Gnaw off a body part
   * Gain the memories of their meal
 
-Lich Solitary, Magical, Intelligent, Cautious, Hoarder, Construct
+## Lich 
+
+*Solitary, Magical, Intelligent, Cautious, Hoarder, Construct*
 
 Magical Force \(d10+3 damage, ignores armor\) 16 HP 5 Armor
 
-Near, Far
+*Near, Far*
 
 “At the end, they give you a scroll and a jeweled medallion to commemorate
 your achievements. Grand Master of Abjuration, I was called, then. Old man.
@@ -165,11 +181,13 @@ _Instinct_: To un-live
   * Set a ritual or great working into motion
   * Reveal a preparation or plan already completed
 
-Mohrg Group
+## Mohrg 
+
+*Group*
 
 Bite \(d8 damage\) 10 HP 0 Armor
 
-Close
+*Close*
 
 You never get away with murder. Not really. You might evade the law, might
 escape your own conscience in the end and die, fat and happy in a mansion
@@ -185,11 +203,13 @@ are just and they are harsh. _Instinct_: To wreak havoc
   * Rage
   * Add to their collection of guts
 
-Mummy Solitary, Divine, Hoarder
+## Mummy 
+
+*Solitary, Divine, Hoarder*
 
 Smash \(d10+2 damage\) 16 HP 1 Armor
 
-Close
+*Close*
 
 There are cultures who revere the dead. They do not bury them in the cold
 earth and mourn their passing. These people spend weeks preparing the sacred
@@ -204,11 +224,13 @@ their ire—don’t say I did not warn you\! _Instinct_: To enjoy eternal rest
   * Wrap them up
   * Rise again
 
-Nightwing Horde, Stealthy
+## Nightwing 
+
+*Horde, Stealthy*
 
 Rend \(d6 damage\) 7 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Wings
 
@@ -227,11 +249,13 @@ until they pass. _Instinct_: To hunt
   * Attack from the night sky
   * Fly away with prey
 
-Shadow Horde, Large, Magical, Construct
+## Shadow 
+
+*Horde, Large, Magical, Construct*
 
 Shadow touch \(d6+1 damage\) 11 HP 4 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Shadow Form
 
@@ -246,11 +270,13 @@ _Instinct_: To darken
   * Snuff out light
   * Spawn another shadow from the dead
 
-Sigben Horde, Large, Construct
+## Sigben 
+
+*Horde, Large, Construct*
 
 Tail whip \(d6+1 damage\) 11 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Vampire spawn
 
@@ -265,11 +291,13 @@ _Instinct_: To disturb
   * Poison them
   * Do a vampire’s bidding
 
-Skeleton Horde
+## Skeleton 
+
+*Horde*
 
 Slam \(d6 damage\) 7 HP 1 Armor
 
-Close
+*Close*
 
 Dem bones, dem bones, dem dry bones. _Instinct_: To take the semblance of life
 
@@ -277,11 +305,13 @@ Dem bones, dem bones, dem dry bones. _Instinct_: To take the semblance of life
   * Snuff out the warmth of life
   * Reconstruct from miscellaneous bones
 
-Spectre Solitary, Hoarder
+## Spectre 
+
+*Solitary, Hoarder*
 
 Withering touch \(d10 damage\) 12 HP 0 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Insubstantial
 
@@ -298,11 +328,13 @@ from a place
   * Turn their haunt against a creature
   * Bring the environment to life
 
-Vampire Group, Stealthy, Organized, Intelligent
+## Vampire 
+
+*Group, Stealthy, Organized, Intelligent*
 
 Supernatural force \(d8+5 damage, 1 piercing\) 10 HP 2 Armor
 
-Close, Forceful
+*Close, Forceful*
 
 **Special Qualities:** Changing form, ancient mind
 
@@ -319,11 +351,13 @@ and the chains of eternal undying grief. _Instinct_: To manipulate
   * Feed on their blood
   * Retreat to plan again
 
-Wight-Wolf Horde, Organized, Intelligent
+## Wight-Wolf 
+
+*Horde, Organized, Intelligent*
 
 Pounce \(d6+1 damage 1 piercing\) 7 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Shadow form
 
@@ -339,11 +373,13 @@ of Death and pray that they do not howl for you. _Instinct_: To hunt
   * Encircle prey
   * Summon the pack
 
-Zombie Horde
+## Zombie 
+
+*Horde*
 
 Bite \(d6 damage\) 11 HP 1 Armor
 
-Close
+*Close*
 
 When there’s no more room in Hell… _Instinct_: Braaaaaains
 
