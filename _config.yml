@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Dungeon World
 description: A fantasy tabletop roleplaying game
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "/Dungeon-World" # the subpath of your site, e.g. /blog
 url: "https://elstiko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -35,8 +35,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Dungeon World official site":
-    - "//dungeon.world"
+  "visit Dungeon World's official site":
+    - "http://dungeon.world"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; Sage Kobold 2015. Released under a <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution license</a>."
