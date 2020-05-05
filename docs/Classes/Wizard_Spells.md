@@ -2,7 +2,7 @@
 layout: default
 title: Wizard Spells
 parent: Classes
-nav_order: 17
+nav_order: 19
 ---
 
 # Wizard Spells

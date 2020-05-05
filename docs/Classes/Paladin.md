@@ -2,7 +2,7 @@
 layout: default
 title: Paladin
 parent: Classes
-nav_order: 13
+nav_order: 15
 ---
 
 # The Paladin

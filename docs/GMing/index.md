@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GMing
-nav_order: 18
+nav_order: 20
 has_children: true
 ---
 # The GM
