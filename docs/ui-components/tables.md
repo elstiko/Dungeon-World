@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Tables
-parent: UI Components
-nav_order: 4
+title: 404
+nav_exclude: true
 ---
 
 # Tables
