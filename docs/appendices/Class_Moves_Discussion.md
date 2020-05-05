@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Thanks
-parent: Appendices
+title: Class Moves in Detail 
+grand_parent: Appendices
+parent: Moves Discussion
 nav_order: 40
 ---
 
