@@ -6,11 +6,13 @@ nav_order: 33
 ---
 # Planar Powers
 
-Angel Solitary, Terrifying, Divine, Intelligent, Organized
+## Angel 
+
+*Solitary, Terrifying, Divine, Intelligent, Organized*
 
 Sword of Flames \(b\[2d10\]+4 damage, ignores armor\) 18 HP 4 Armor
 
-Close, Forceful
+*Close, Forceful*
 
 **Special Qualities:** Wings
 
@@ -28,11 +30,13 @@ _Instinct_: To share divine will
   * Stir mortals to action
   * Expose sin and injustice
 
-Barbed Devil Solitary, Large, Planar, Terrifying
+## Barbed Devil 
+
+*Solitary, Large, Planar, Terrifying*
 
 Spines \(d10+3 damage, 3 piercing\) 16 HP 3 Armor
 
-Close, Reach, Messy
+*Close, Reach, Messy*
 
 **Special Qualities:** Spines
 
@@ -51,11 +55,13 @@ blood
   * Impale someone
   * Kill indiscriminately
 
-Chain Devil Solitary, Planar
+## Chain Devil 
+
+*Solitary, Planar*
 
 Crush \(d10 damage, ignores armor\) 12 HP 3 Armor
 
-Close, Reach
+*Close, Reach*
 
 Do you think the phrase “drag him to hell” means nothing? It is unfortunately
 literal, in the case of the chain devil. Appearing differently to each victim,
@@ -69,7 +75,9 @@ results are always the same. _Instinct_: To capture
   * Return to whence it came
   * Torture with glee
 
-Concept Elemental Solitary, Devious, Planar, Amorphous
+## Concept Elemental 
+
+*Solitary, Devious, Planar, Amorphous*
 
 **Special Qualities:** Ideal form
 
@@ -84,11 +92,13 @@ _Instinct_: To perfect its concept
 
   * Demonstrate its concept in its purest form
 
-Corrupter Solitary, Devious, Planar, Hoarder
+## Corrupter 
+
+*Solitary, Devious, Planar, Hoarder*
 
 Secret dagger \(w\[2d8\] damage\) 12 HP 0 Armor
 
-Close
+*Close*
 
 “Surely, my good man, you must know why I am here. Must know who I am. You
 said the words. You spilled the blood and followed the instructions almost to
@@ -102,11 +112,13 @@ the world shall be yours for the taking. Trust me.” _Instinct_: To bargain
   * Plumb the vaults of hell for a bargaining chip
   * Make a show of power
 
-Djinn Group, Large, Magical
+## Djinn
+
+*Group, Large, Magical*
 
 Flame \(d8+1 damage, ignores armor\) 14 HP 4 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Made of flame
 
@@ -126,11 +138,13 @@ eternally
   * Grant power for a price
   * Summon the forces of the City of Brass
 
-Hell Hound Group, Planar, Organized
+## Hell Hound 
+
+*Group, Planar, Organized*
 
 Fiery Bite \(d8 damage\) 10 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Hide of shadow
 
@@ -144,11 +158,13 @@ evaded. _Instinct_: To pursue
   * Spew fire
   * Summon the forces of hell on their target
 
-Imp Horde, Planar, Intelligent, Organized
+## Imp 
+
+*Horde, Planar, Intelligent, Organized*
 
 Flame gout \(d6 damage, ignores armor\) 7 HP 1 Armor
 
-Close, Near, Far
+*Close, Near, Far*
 
 These tiny observer-demons often act as a first-time binding subject by
 neophyte warlocks. They can be found infesting arcane cabals, drinking potions
@@ -159,11 +175,13 @@ difficult to bind or extinguish. _Instinct_: To harass
   * Send information back to hell
   * Cause mischief
 
-Inevitable Group, Large, Magical, Cautious, Amorphous, Planar
+## Inevitable 
+
+*Group, Large, Magical, Cautious, Amorphous, Planar*
 
 Hammer \(d10+1 damage\) 21 HP 5 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Made of Order
 
@@ -181,11 +199,13 @@ out. _Instinct_: To preserve order
   * Enforce a law of nature or man
   * Give a glimpse of destiny
 
-Larvae Horde, Devious, Planar, Intelligent
+## Larvae 
+
+*Horde, Devious, Planar, Intelligent*
 
 Slime \(w\[2d4\] damage\) 10 HP 0 Armor
 
-Close
+*Close*
 
 Those who have seen visions of the Planes Below, and survived with their
 sanity intact, speak of masses of these writhing wretches. Maggots with the
@@ -199,11 +219,13 @@ in all, an enticement to do good deeds in life. _Instinct_: To suffer
   * Beg for mercy
   * Draw evil attention
 
-Nightmare Horde, Large, Magical, Terrifying, Planar
+## Nightmare 
+
+*Horde, Large, Magical, Terrifying, Planar*
 
 Trample \(d6+1 damage\) 7 HP 4 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Flame and shadow
 
@@ -219,11 +241,13 @@ _Instinct_: To ride rampant
   * Sheath a rider in hellish flame
   * Drive them away
 
-Quasit Horde, Planar
+## Quasit 
+
+*Horde, Planar*
 
 Hellish weaponry \(d6 damage\) 7 HP 2 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Adaptable form
 
@@ -236,7 +260,9 @@ can take on many forms, none of them pleasant. _Instinct_: To serve
   * Attack with abandon
   * Inflict pain
 
-The Tarrasque Solitary, Huge, Planar
+## The Tarrasque 
+
+*Solitary, Huge, Planar*
 
 **Special Qualities:** Impervious
 
@@ -253,7 +279,9 @@ To consume
   * Swallow a person, group, or place whole
   * Release a remnant of a long-eaten place from its gullet
 
-Word Demon Solitary, Planar, Magical
+## Word Demon 
+
+*Solitary, Planar, Magical*
 
 All of mortal magic is just words. Spells are prayers, rote formula, runes
 cast, or songs sung. Letters, words, sentences, and syntax strung together in

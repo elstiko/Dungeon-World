@@ -6,7 +6,7 @@ nav_order: 34
 ---
 # Folk of the Realm
 
-Acolyte
+## Acolyte
 
 “Can’t all be the High Priest, they said. Can’t all wield the White Spire,
 they said. Scrub the floor, they told me. The Cthonic Overgod don’t want a
@@ -17,11 +17,13 @@ _Instinct_: To serve dutifully
   * Follow dogma
   * Offer eternal reward for mortal deeds
 
-Adventurer Horde, Intelligent
+## Adventurer 
+
+*Horde, Intelligent*
 
 Sword \(d6 damage\) 3 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Endless enthusiasm
 
@@ -38,11 +40,13 @@ adventure or die trying
   * Act impulsively
   * Share tales of past exploits
 
-Bandit Horde, Intelligent, Organized
+## Bandit 
+
+*Horde, Intelligent, Organized*
 
 Dirk \(d6 damage\) 3 HP 1 Armor
 
-Close
+*Close*
 
 Desperation is the watchword of banditry. When times are tough, what else is
 there to do but scavenge a weapon and take up with a clan of nasty men and
@@ -54,11 +58,13 @@ baser lusts? Anyway—it’s this or starve, sometimes. _Instinct_: To rob
   * Steal something
   * Demand tribute
 
-Bandit King Solitary, Intelligent, Organized
+## Bandit King 
+
+*Solitary, Intelligent, Organized*
 
 Trusty knife \(b\[2d10\] damage\) 12 HP 1 Armor
 
-Close
+*Close*
 
 Better to rule in hell than serve in heaven. _Instinct_: To lead
 
@@ -66,7 +72,7 @@ Better to rule in hell than serve in heaven. _Instinct_: To lead
   * Extort
   * Topple power
 
-Fool
+## Fool
 
 There’s not but one person in all the King’s court allowed to speak the truth.
 The real, straight-and-honest truth about anything. The fool couches it all in
@@ -77,11 +83,13 @@ red-faced and you’d just as soon drown him in a cesspit. _Instinct_: To mock
   * Expose injustice
   * Play a trick
 
-Guardsman Group, Intelligent, Organized
+## Guardsman 
+
+*Group, Intelligent, Organized*
 
 Spear \(d8 damage\) 6 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 Noble protector or merely drunken lout, it often makes no difference to these
 sorts. Falling shy of a noble knight, the proud town guard is an ancient
@@ -96,11 +104,13 @@ drunkenly insulting your mother, hmm? _Instinct_: To do as ordered
   * Uphold the law
   * Make a profit
 
-Halfling Thief Solitary, Small, Intelligent, Stealthy, Devious
+## Halfling Thief 
+
+*Solitary, Small, Intelligent, Stealthy, Devious*
 
 Dagger \(w\[2d8\] damage\) 12 HP 1 Armor
 
-Close
+*Close*
 
 It would be foolish, now, to draw conclusions about folks just because they
 happen to be good at one thing or another. Then again, a spade’s a spade,
@@ -116,7 +126,9 @@ you deserved it. _Instinct_: To live a life of stolen luxury
   * Steal
   * Put on the appearance of friendship
 
-Hedge Wizard Magical
+## Hedge Wizard 
+
+*Magical*
 
 Not all those who wield the arcane arts are adventuring wizards. Nor
 necromancers in mausoleums or sorcerers of ancient bloodline. Some are just
@@ -129,7 +141,7 @@ learn
   * Cast almost the right spell \(for a price\)
   * Make deals beyond their ken
 
-High Priest
+## High Priest
 
 Respected by all who gaze upon them, the high priests and abbesses of Dungeon
 World are treated with a sort of reverence. Whether they pay homage to Ur-
@@ -143,11 +155,13 @@ wide berth as they pass in their shining robes. _Instinct_: To lead
   * Reveal divine secrets
   * Commission divine undertakings
 
-Hunter Group, Intelligent
+## Hunter 
+
+*Group, Intelligent*
 
 Ragged bow \(d6 damage\) 6 HP 1 Armor
 
-Near, Far
+*Near, Far*
 
 The wilds are home to more than just beasts of horn and scale. There are men
 and women out there, too—those who smell blood on the wind and stalk the
@@ -177,7 +191,7 @@ see her. A knight means something. _Instinct_: To live by a code
   * Make a moral stand
   * Lead soldiers into battle
 
-Merchant
+## Merchant
 
 “Ten foot poles. Get your ten foot poles, here. Torches, bright and hot.
 Mules, too—stubborn but immaculately bred. Need a linen sack, do you? Right
@@ -186,7 +200,7 @@ over here\! Come and get your ten foot poles\!” _Instinct_: To profit
   * Propose a business venture
   * Offer a “deal”
 
-Noble
+## Noble
 
 Are they granted their place by the gods, perhaps? Is that why they’re able to
 pass their riches and power down by birth? Some trick or enchantment of the
@@ -210,11 +224,13 @@ sense you had, adventurer. _Instinct_: To get by
   * Plead for help
   * Offer a simple reward and gratitude
 
-Rebel Horde, Intelligent, Organized
+## Rebel 
+
+*Horde, Intelligent, Organized*
 
 Axe \(d6 damage\) 3 HP 1 Armor
 
-Close
+*Close*
 
 In the countryside they’d be called outlaw and driven off or killed. The city,
 though, is full of places to hide. Damp basements to pore over maps and to
@@ -229,11 +245,13 @@ _Instinct_: To upset order
   * Die for a cause
   * Inspire others
 
-Soldier Horde, Intelligent, Organized
+## Soldier 
+
+*Horde, Intelligent, Organized*
 
 Spear \(d6 damage\) 3 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 For a commoner with a strong arm, sometimes it’s this or be a bandit. It’s
 wear the colors and don ill-fitting armor and march into the unknown with a
@@ -248,7 +266,7 @@ _Instinct_: To fight
   * March into battle
   * Fight as one
 
-Spy
+## Spy
 
 Beloved of kings but never truly trusted. Mysterious, secretive and alluring,
 the life of a spy is, if you ask a commoner, full of romance and intrigue.
@@ -261,7 +279,7 @@ To infiltrate
   * Report the truth
   * Double cross
 
-Tinkerer
+## Tinkerer
 
 It’s said that if you see a tinker on the road and you don’t offer him a swig
 of ale or some of your food that he’ll leave a curse of bad luck behind. A

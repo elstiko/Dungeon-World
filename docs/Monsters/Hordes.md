@@ -6,11 +6,13 @@ nav_order: 30
 ---
 # Ravenous Hordes
 
-Formian Drone Horde, Organized, Cautious
+## Formian Drone 
+
+*Horde, Organized, Cautious*
 
 Bite \(d6 damage\) 7 HP 4 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Hive connection, Insectoid
 
@@ -29,11 +31,13 @@ _Instinct_: To follow orders
   * Create value for the hive
   * Assimilate
 
-Formian Taskmaster Group, Organized, Intelligent
+## Formian Taskmaster 
+
+*Group, Organized, Intelligent*
 
 Spiked whip \(d8 damage\) 6 HP 3 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Hive connection, Insectoid
 
@@ -51,11 +55,13 @@ _Instinct_: To command
   * Order drones into battle
   * Set great numbers in motion
 
-Formian Centurion Horde, Intelligent, Organized
+## Formian Centurion 
+
+*Horde, Intelligent, Organized*
 
 Barbed spear \(b\[2d6\]+2 damage\) 7 HP 3 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Hive connection, Insectoid, Wings
 
@@ -76,11 +82,13 @@ the completion of a goal. _Instinct_: To fight as ordered
   * Summon reinforcements
   * Give a life for the hive
 
-Formian Queen Solitary, Huge, Organized, Intelligent, Hoarder
+## Formian Queen 
+
+*Solitary, Huge, Organized, Intelligent, Hoarder*
 
 Crushing mandibles \(d10+5 damage\) 24 HP 3 Armor
 
-Reach, Forceful
+*Reach, Forceful*
 
 **Special Qualities:** Hive connection, Insectoid
 
@@ -98,11 +106,13 @@ another in a mad, blind rage. _Instinct_: To spread formians
   * Release a half-formed larval mutation
   * Organize and issue orders
 
-Gnoll Tracker Group, Organized, Intelligent
+## Gnoll Tracker 
+
+*Group, Organized, Intelligent*
 
 Bow \(d8 damage\) 6 HP 1 Armor
 
-Near, Far
+*Near, Far*
 
 **Special Qualities:** Scent-tracker
 
@@ -119,11 +129,13 @@ _Instinct_: To prey on weakness
   * Doggedly track prey
   * Strike at a moment of weakness
 
-Gnoll Emissary Solitary, Divine, Intelligent, Organized
+## Gnoll Emissary 
+
+*Solitary, Divine, Intelligent, Organized*
 
 Ceremonial dagger \(d10+2 damage\) 18 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Scent
 
@@ -138,11 +150,13 @@ share divine insight
   * Pass on demonic influence
   * Drive the pack into a fervor
 
-Gnoll Alpha Solitary, Intelligent, Organized
+## Gnoll Alpha 
+
+*Solitary, Intelligent, Organized*
 
 Sword \(b\[2d10\] damage, 1 piercing\) 12 HP 2 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Scent
 
@@ -157,7 +171,9 @@ carnivores. _Instinct_: To drive the pack
   * Demand obedience
   * Send the pack to hunt
 
-Orc Bloodwarrior Horde, Intelligent, Organized
+## Orc Bloodwarrior 
+
+Horde, Intelligent, Organized
 
 Jagged blade \(d6+2 damage, 1 piercing\) 3 HP 0 Armor
 
@@ -174,11 +190,13 @@ _Instinct_: To fight
   * Fight with abandon
   * Revel in destruction
 
-Orc Berserker Solitary, Large, Divine, Intelligent, Organized
+## Orc Berserker 
+
+*Solitary, Large, Divine, Intelligent, Organized*
 
 Cleaver \(d10+5 damage\) 20 HP 0 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Mutations
 
@@ -193,11 +211,13 @@ cleavers they favor in battle. _Instinct_: To rage
   * Fly into a frenzy
   * Unleash chaos
 
-Orc Breaker Solitary, Large
+## Orc Breaker 
+
+*Solitary, Large*
 
 Hammer \(d10+3 damage ignores armor\) 16 HP 0 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 “Before you set out across the hordeland, brave sir, hark a moment to the tale
 of Sir Regnus. Regnus was like you, sir—a paladin of the Order, all a-shine in
@@ -217,11 +237,13 @@ smash
   * Destroy armor or protection
   * Lay low the mighty
 
-Orc One-Eye Group, Divine, Magical, Intelligent, Organized
+## Orc One-Eye 
+
+*Group, Divine, Magical, Intelligent, Organized*
 
 Inflict Wounds \(d8+2 damage ignores armor\) 6 HP 0 Armor
 
-Close, Reach, Near, Far
+*Close, Reach, Near, Far*
 
 **Special Qualities:** One eye
 
@@ -236,11 +258,13 @@ _Instinct_: To hate
   * Take an eye
   * Make a sacrifice and grow in power
 
-Orc Shaman Solitary, Intelligent, Organized
+## Orc Shaman 
+
+*Solitary, Intelligent, Organized*
 
 Elemental blast \(d10 damage ignores armor\) 12 HP 0 Armor
 
-Close, Reach, Near, Far
+*Close, Reach, Near, Far*
 
 **Special Qualities:** Elemental power
 
@@ -257,11 +281,13 @@ have since the first nights. _Instinct_: To strengthen orc-kind
   * Give swiftness of water
   * Give clarity of air
 
-Orc Slaver Horde, Stealthy, Intelligent, Organized
+## Orc Slaver 
+
+*Horde, Stealthy, Intelligent, Organized*
 
 Whip \(d6 damage\) 3 HP 0 Armor
 
-Close, Reach
+*Close, Reach*
 
 Red sails fly in the southern sea. Red sails and ships of bone, old wood and
 iron. The warfleet of the horde. Orcs down that way have taken to the sea,
@@ -275,11 +301,13 @@ galley, back bent under the lash. _Instinct_: To take
   * Pin someone under a net
   * Drug them
 
-Orc Shadowhunter Solitary, Stealthy, Magical, Intelligent
+## Orc Shadowhunter 
+
+*Solitary, Stealthy, Magical, Intelligent*
 
 Poisoned dagger \(d10 damage, 1 piercing\) 10 HP 0 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Shadow cloak
 
@@ -294,11 +322,13 @@ your back. _Instinct_: To kill in darkness
   * Melt into the shadows
   * Cloak them in darkness
 
-Orc Warchief Solitary, Intelligent, Organized
+## Orc Warchief
+
+*Solitary, Intelligent, Organized*
 
 Iron Sword of Ages \(b\[2d10\]+2 damage\) 16 HP 0 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** One-Eye blessings, Shaman blessings, Divine protection from mortal harm
 
@@ -315,11 +345,13 @@ All glory to the Warchief. _Instinct_: To lead
   * Make a show of power
   * Enrage the tribes
 
-Triton Spy Solitary, Stealthy, Intelligent, Organized
+## Triton Spy 
+
+*Solitary, Stealthy, Intelligent, Organized*
 
 Trident \(w\[2d10\] damage\) 12 HP 2 Armor
 
-Close, Near
+*Close, Near*
 
 **Special Qualities:** Aquatic
 
@@ -336,11 +368,13 @@ surface world
   * Reveal their secrets
   * Strike at weakness
 
-Triton Tidecaller Group, Divine, Magical, Intelligent
+## Triton Tidecaller 
+
+*Group, Divine, Magical, Intelligent*
 
 Waves \(d8+2 damage, ignores armor\) 6 HP 2 Armor
 
-Near, Far
+*Near, Far*
 
 **Special Qualities:** Aquatic, Mutations
 
@@ -359,11 +393,13 @@ speak and the lords begin to listen. _Instinct_: To bring on The Flood
   * Command beasts of the sea
   * Reveal divine proclamation
 
-Triton Sub-Mariner Group, Organized, Intelligent
+## Triton Sub-Mariner 
+
+*Group, Organized, Intelligent*
 
 Harpoon \(b\[2d8\] damage\) 6 HP 3 Armor
 
-Close, Near, Far
+*Close, Near, Far*
 
 **Special Qualities:** Aquatic
 
@@ -380,11 +416,13 @@ keep, if you can, your boats near shore. _Instinct_: To wage war
   * Lead tritons to battle
   * Pull them beneath the waves
 
-Triton Noble Group, Organized, Intelligent
+## Triton Noble 
+
+*Group, Organized, Intelligent*
 
 Trident \(d8 damage\) 6 HP 2 Armor
 
-Close, Near, Far
+*Close, Near, Far*
 
 **Special Qualities:** Aquatic
 
