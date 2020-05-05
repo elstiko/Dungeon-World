@@ -8,5 +8,5 @@ nav_exclude: true
 
 This little website holds the free rules text for **Dungeon World**, by Sage LaTorra and Adam Koebel. 
 
-[Onward!](https://elstiko.github.io/Dungeon-World/docs/Playing/){: .btn }
+[Onward!](https://elstiko.github.io/Dungeon-World/docs/Playing/){: .btn-purple }
 
