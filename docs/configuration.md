@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Configuration
-nav_order: 2
+title: 404
+nav_exclude: true
 ---
 
 # Configuration
