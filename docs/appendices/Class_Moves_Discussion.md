@@ -1,8 +1,10 @@
 ---
 layout: default
-title: 404
-nav_exclude: true
+title: Thanks
+parent: Appendices
+nav_order: 40
 ---
+
 # Moves in Detail
 
 # Multiclass Moves
