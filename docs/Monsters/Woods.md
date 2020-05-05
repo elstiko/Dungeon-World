@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dark Woods
+parent: Monsters
+nav_order: 29
+---
 # Dark Woods
 
 Assassin Vine Solitary, Stealthy, Amorphous

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Undead Legions
+parent: Monsters
+nav_order: 28
+---
 # Undead Legions
 
 Abomination Solitary, Large, Construct, Terrifying

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cavern Dwellers
+parent: Monsters
+nav_order: 26
+---
 # Cavern Dwellers
 
 Ankheg Group, Large

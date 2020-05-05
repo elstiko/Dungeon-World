@@ -1,3 +1,9 @@
+---
+layout: default
+title: Twisted Experiments
+parent: Monsters
+nav_order: 31
+---
 # Twisted Experiments
 
 Bulette Solitary, Huge, Construct

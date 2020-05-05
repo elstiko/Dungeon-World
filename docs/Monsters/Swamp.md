@@ -1,3 +1,9 @@
+---
+layout: default
+title: Swamp Denizens
+parent: Monsters
+nav_order: 27
+---
 # Swamp Denizens
 
 Bakunawa Solitary, Large, Intelligent, Messy, Forceful

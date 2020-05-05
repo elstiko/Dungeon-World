@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ravenous Hordes
+parent: Monsters
+nav_order: 30
+---
 # Ravenous Hordes
 
 Formian Drone Horde, Organized, Cautious

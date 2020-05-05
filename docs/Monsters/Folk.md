@@ -1,3 +1,9 @@
+---
+layout: default
+title: Folk of the Realm
+parent: Monsters
+nav_order: 34
+---
 # Folk of the Realm
 
 Acolyte

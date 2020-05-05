@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lower Depths
+parent: Monsters
+nav_order: 32
+---
 # Lower Depths
 
 Aboleth Group, Huge, Intelligent

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Planar Powers
+parent: Monsters
+nav_order: 33
+---
 # Planar Powers
 
 Angel Solitary, Terrifying, Divine, Intelligent, Organized
