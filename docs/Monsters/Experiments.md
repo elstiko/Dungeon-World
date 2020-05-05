@@ -6,11 +6,13 @@ nav_order: 31
 ---
 # Twisted Experiments
 
-Bulette Solitary, Huge, Construct
+## Bulette 
+
+*Solitary, Huge, Construct*
 
 Bite \(d10+5 damage, 3 piercing\) 20 HP 3 Armor
 
-Close, Forceful
+*Close, Forceful*
 
 **Special Qualities:** Burrowing
 
@@ -26,11 +28,13 @@ _Instinct_: To devour
   * Burst from the earth
   * Swallow whole
 
-Chimera Solitary, Large, Construct
+## Chimera 
+
+*Solitary, Large, Construct*
 
 Bite \(d10+1 damage\) 16 HP 1 Armor
 
-Reach
+*Reach*
 
 Well-known and categorized, the chimera is a perfected creature. From the
 codices of the Mage’s Guild to the famous pages of Cullaina’s Creature
@@ -46,11 +50,13 @@ natural life. _Instinct_: To do as commanded
   * Run them over
   * Poison them
 
-Derro Horde, Devious, Intelligent, Organized
+## Derro 
+
+*Horde, Devious, Intelligent, Organized*
 
 Pickaxe \(d6 damage\) 3 HP 2 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Telepathy
 
@@ -67,11 +73,13 @@ creator. _Instinct_: To replace dwarves
   * Fill a mind with foreign thoughts
   * Take control of a beast’s mind
 
-Digester Solitary, Large, Construct
+## Digester 
+
+*Solitary, Large, Construct*
 
 Acid \(d10+1 damage ignores armor\) 16 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Digest acid secretion
 
@@ -88,11 +96,13 @@ it. Damn thing ate my wand last week. _Instinct_: To digest
   * Eat away at something
   * Draw sustenance
 
-Ethereal Filcher Solitary, Devious, Planar
+## Ethereal Filcher 
+
+*Solitary, Devious, Planar*
 
 Stolen dagger \(w\[2d8\] damage\) 12 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Burrowing
 
@@ -109,11 +119,13 @@ We’re lucky, that way. _Instinct_: To steal
   * Retreat to the Ethereal plane
   * Use an item from its lair
 
-Ettin Solitary, Large, Construct
+## Ettin 
+
+*Solitary, Large, Construct*
 
 Club \(d10+3 damage\) 16 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 **Special Qualities:** Two heads
 
@@ -123,11 +135,13 @@ heads. Fantastic idea, really. Grade A stuff. _Instinct_: To smash
   * Attack two enemies at once
   * Defend its creator
 
-Girallon Solitary, Huge
+## Girallon 
+
+*Solitary, Huge*
 
 Rending hands \(d10+5 damage\) 20 HP 1 Armor
 
-Reach, Forceful
+*Reach, Forceful*
 
 **Special Qualities:** Many arms
 
@@ -144,11 +158,13 @@ To rule
   * Drive them from the jungle
   * Throw someone
 
-Iron Golem Group, Large, Construct
+## Iron Golem 
+
+*Group, Large, Construct*
 
 Metal fists \(d8+5 damage\) 10 HP 3 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 **Special Qualities:** Metal
 
@@ -164,11 +180,13 @@ he can afford the materials. If not… _Instinct_: To serve
   * Follow orders implacably
   * Use a special tool or adaptation, built-in
 
-Flesh Golem Horde
+## Flesh Golem 
+
+*Horde*
 
 Miscellaneous Claws and Teeth \(d6+2 damage\) 3 HP 0 Armor
 
-Close, Forceful
+*Close, Forceful*
 
 **Special Qualities:** Many body parts
 
@@ -181,11 +199,13 @@ them. _Instinct_: To live
   * Follow orders
   * Detach a body part
 
-Kraken Solitary, Huge
+## Kraken 
+
+*Solitary, Huge*
 
 Giant tentacles \(d10+5 damage\) 20 HP 2 Armor
 
-Reach, Forceful
+*Reach, Forceful*
 
 **Special Qualities:** Aquatic
 
@@ -202,11 +222,13 @@ _Instinct_: To rule the ocean
   * Drag a person or ship to a watery grave
   * Wrap them in tentacles
 
-Manticore Solitary, Large, Construct
+## Manticore 
+
+*Solitary, Large, Construct*
 
 Stinger \(d10+1 damage, 1 piercing\) 16 HP 3 Armor
 
-Close, Reach, Messy
+*Close, Reach, Messy*
 
 **Special Qualities:** Wings
 
@@ -223,11 +245,13 @@ so eager to kill. _Instinct_: To kill
   * Poison them
   * Rip something apart
 
-Owlbear Solitary, Construct
+## Owlbear 
+
+*Solitary, Construct*
 
 Claws \(d10 damage\) 12 HP 2 Armor
 
-Close
+*Close*
 
 Body of a bear. Feathers of an owl. Beak, claws, and excellent night vision.
 What’s not to love? _Instinct_: To hunt
@@ -254,11 +278,13 @@ beauty in the world, mark my words. _Instinct_: To carry aloft
   * Carry a rider into the air
   * Give their rider an advantage
 
-Rust Monster Group, Construct
+## Rust Monster 
+
+*Group, Construct*
 
 Corrosive touch \(d8 damage, ignores armor\) 6 HP 3 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Corrosive touch
 
@@ -274,11 +300,13 @@ you value your belongings. _Instinct_: To decay
   * Turn metal to rust
   * Gain strength from consuming metal
 
-Xorn Solitary, Large, Construct
+## Xorn 
+
+*Solitary, Large, Construct*
 
 Maw \(d10 damage\) 12 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Burrowing
 
