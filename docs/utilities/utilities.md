@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Utilities
-nav_order: 4
-has_children: true
-permalink: docs/utilities
+title: 404
+nav_exclude: true
 ---
 
 # Utilities
