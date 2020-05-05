@@ -2,7 +2,7 @@
 layout: default
 title: Moves Discussion
 parent: Appendices
-nav_order: 39
+nav_order: 40
 has_children: true
 ---
 # Basic Moves
