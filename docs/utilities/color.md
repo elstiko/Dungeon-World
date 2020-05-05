@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Color
-parent: Utilities
-nav_order: 3
+title: 404
+nav_exclude: true
 ---
 
 # Color Utilities
