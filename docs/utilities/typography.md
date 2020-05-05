@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Typography
-parent: Utilities
-nav_order: 4
+title: 404
+nav_exclude: true
 ---
 
 # Typography Utilities
