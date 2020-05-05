@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Thanks
+title: Moves Discussion
 parent: Appendices
 nav_order: 39
+has_children: true
 ---
 # Basic Moves
 
