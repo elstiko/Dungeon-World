@@ -3,7 +3,7 @@ layout: default
 title: Class Moves in Detail 
 grand_parent: Appendices
 parent: Moves Discussion
-nav_order: 40
+nav_order: 41
 ---
 
 # Moves in Detail
