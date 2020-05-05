@@ -3,6 +3,7 @@ layout: default
 title: Wizard
 parent: Classes
 nav_order: 18
+has_children: true
 ---
 
 # The Wizard

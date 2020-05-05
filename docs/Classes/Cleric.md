@@ -3,6 +3,7 @@ layout: default
 title: Cleric
 parent: Classes
 nav_order: 10
+has_children: true
 ---
 # The Cleric
 
