@@ -6,11 +6,13 @@ nav_order: 27
 ---
 # Swamp Denizens
 
-Bakunawa Solitary, Large, Intelligent, Messy, Forceful
+## Bakunawa 
+
+*Solitary, Large, Intelligent, Messy, Forceful*
 
 Bite \(d10+3 damage, 1 piercing\) 16 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Amphibious
 
@@ -27,11 +29,13 @@ snake your treasures and she might just leave you alone. _Instinct_: To devour
   * Lash out at light
   * Devour
 
-Basilisk Solitary, Hoarder
+## Basilisk 
+
+*Solitary, Hoarder*
 
 Bite \(d10 damage\) 12 HP 2 Armor
 
-Close
+*Close*
 
 “Few have seen a basilisk and lived to tell the tale. Get it? Seen a basilisk?
 Little bit of basilisk humor there. Sorry, I know you’re looking for something
@@ -45,11 +49,13 @@ create new statuary
   * Turn flesh to stone with a gaze
   * Retreat into a maze of stone
 
-Black Pudding Solitary, Amorphous
+## Black Pudding 
+
+*Solitary, Amorphous*
 
 Corrosive touch \(d10 damage, ignores armor\) 15 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Amorphous
 
@@ -60,11 +66,13 @@ have no answer. Do let us know when you find out. _Instinct_: To dissolve
   * Eat away metal, flesh, or wood
   * Ooze into a troubling place: food, armor, stomach
 
-Coutal Solitary, Intelligent Devious
+## Coutal 
+
+*Solitary, Intelligent Devious*
 
 Light ray \(d8 damage, ignores armor\) 12 HP 2 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Wings, Halo
 
@@ -81,11 +89,13 @@ cruel. _Instinct_: To cleanse
   * Summon divine forces to cleanse
   * Offer information in exchange for service
 
-Crocodilian Group, Large
+## Crocodilian 
+
+*Group, Large*
 
 Bite \(d8+3 damage\) 10 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Amphibious, Camouflage
 
@@ -95,11 +105,13 @@ It’s a really, really big crocodile. Seriously. So big. _Instinct_: To eat
   * Escape into the water
   * Hold something tight in its jaws
 
-Doppelgänger Solitary, Devious, Intelligent
+## Doppelgänger 
+
+*Solitary, Devious, Intelligent*
 
 Dagger \(d6 damage\) 12 HP 0 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Shapeshifting
 
@@ -117,11 +129,13 @@ infiltrate
   * Use another’s identity to advantage
   * Leave someone’s reputation shattered
 
-Dragon Turtle Solitary, Huge, Cautious
+## Dragon Turtle 
+
+*Solitary, Huge, Cautious*
 
 Bite \(d10+3 damage\) 20 HP 4 Armor
 
-Reach
+*Reach*
 
 **Special Qualities:** Shell, Amphibious
 
@@ -137,11 +151,13 @@ where you tread. _Instinct_: To resist change
   * Bring its full bulk to bear
   * Destroy structures and buildings
 
-Dragon Whelp Solitary, Small, Intelligent, Cautious, Hoarder
+## Dragon Whelp 
+
+*Solitary, Small, Intelligent, Cautious, Hoarder*
 
 Elemental breath \(d10+2 damage\) 16 HP 3 Armor
 
-Close, Near
+*Close, Near*
 
 **Special Qualities:** Wings, Elemental Blood
 
@@ -157,11 +173,13 @@ _Instinct_: To grow in power
   * Call on family ties
   * Demand oaths of servitude
 
-Ekek Horde
+## Ekek 
+
+*Horde*
 
 Talons \(d6 damage\) 3 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Wing-arms
 
@@ -176,11 +194,13 @@ lash out
   * Attack from the air
   * Carry out the bidding of a more powerful creature
 
-Fire Eels Horde, Tiny
+## Fire Eels 
+
+*Horde, Tiny*
 
 Burning touch \(d6-2 damage, ignores armor\) 3 HP 0 Armor
 
-Hand
+*Hand*
 
 **Special Qualities:** Flammable oil, aquatic
 
@@ -195,11 +215,13 @@ but you have to get your hands on one, first. _Instinct_: To ignite
   * Catch someone or something on fire \(even underwater\)
   * Consume burning prey
 
-Frogman Horde, Small, Intelligent
+## Frogman 
+
+*Horde, Small, Intelligent*
 
 Spear \(d6 damage\) 7 HP 1 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Amphibious
 
@@ -214,11 +236,13 @@ really, really hard to kill. _Instinct_: To wage war
   * Launch an amphibious assault
   * Heal at a prodigious rate
 
-Hydra Solitary, Large
+## Hydra 
+
+*Solitary, Large*
 
 Bite \(d10+3 damage\) 16 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Many heads, Only killed by a blow to the heart
 
@@ -233,11 +257,13 @@ thing but this. _Instinct_: To grow
   * Attack many enemies at once
   * Regenerate a body part \(especially a head\)
 
-Kobold Horde, Small, Stealthy, Intelligent, Organized
+## Kobold 
+
+*Horde, Small, Stealthy, Intelligent, Organized*
 
 Spear \(d6 damage\) 3 HP 1 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Dragon connection
 
@@ -253,11 +279,13 @@ mighty dragon cannot be far, either. _Instinct_: To serve dragons
   * Call on dragons or draconic allies
   * Retreat and regroup
 
-Lizardman Group, Stealthy, Intelligent, Organized
+## Lizardman 
+
+*Group, Stealthy, Intelligent, Organized*
 
 Spear \(d8 damage\) 6 HP 2 Armor
 
-Close, Reach
+*Close, Reach*
 
 **Special Qualities:** Amphibious
 
@@ -272,11 +300,13 @@ they just want back what they lost. _Instinct_: To destroy civilization
   * Ambush the unsuspecting
   * Launch an amphibious assault
 
-Medusa Solitary, Devious, Intelligent, Hoarder
+## Medusa 
+
+*Solitary, Devious, Intelligent, Hoarder*
 
 Claws \(d6 damage\) 12 HP 0 Armor
 
-Close
+*Close*
 
 **Special Qualities:** Look turns you to stone
 
@@ -293,11 +323,13 @@ _Instinct_: To collect
   * Draw someone’s gaze
   * Show hidden terrible beauty
 
-Sahuagin Horde, Intelligent
+## Sahuagin 
+
+*Horde, Intelligent*
 
 Endless teeth \(d6+4 damage, 1 piercing\) 3 HP 2 Armor
 
-Close, Forceful, Messy
+*Close, Forceful, Messy*
 
 **Special Qualities:** Amphibious
 
@@ -312,11 +344,13 @@ spill blood
   * Hurl a poisoned spear
   * Frenzy at the sight of blood
 
-Sauropod Group, Huge, Cautious
+## Sauropod 
+
+*Group, Huge, Cautious*
 
 Trample \(d10+5 damage\) 18 HP 4 Armor
 
-Reach
+*Reach*
 
 **Special Qualities:** Armor plated body
 
@@ -330,11 +364,13 @@ wake the giant. _Instinct_: To endure
   * Knock something down
   * Unleash a deafening bellow
 
-Swamp Shambler Solitary, Large, Magical
+## Swamp Shambler 
+
+*Solitary, Large, Magical*
 
 Lash \(d10+1 damage\) 23 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 **Special Qualities:** Swamp form
 
@@ -350,11 +386,13 @@ mud. _Instinct_: To preserve and create swamps
   * Meld into the swamp
   * Reassemble into a new form
 
-Troll Solitary, Large
+## Troll 
+
+*Solitary, Large*
 
 Club \(d10+3 damage\) 20 HP 1 Armor
 
-Close, Reach, Forceful
+*Close, Reach, Forceful*
 
 **Special Qualities:** Regeneration
 
@@ -369,11 +407,13 @@ problem, as you can imagine. _Instinct_: To smash
   * Undo the effects of an attack \(unless caused by a weakness, your call\)
   * Hurl something or someone
 
-Will-o-wisp Solitary, Tiny, Magical
+## Will-o-wisp 
+
+*Solitary, Tiny, Magical*
 
 Ray \(w\[2d8-2\] damage\) 12 HP 0 Armor
 
-Near
+*Near*
 
 **Special Qualities:** Body of light
 
