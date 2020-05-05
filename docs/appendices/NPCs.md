@@ -1,3 +1,9 @@
+---
+layout: default
+title: NPCs
+parent: Appendices
+nav_order: 36
+---
 # Instant NPCs
 
 Sometimes the players will come across someone who becomes important in the

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Conversion
+parent: Appendices
+nav_order: 37
+---
 # Adventure Conversion
 
 There isn’t always time for prep. People aren’t entirely committed to a

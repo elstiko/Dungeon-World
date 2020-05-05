@@ -1,3 +1,9 @@
+---
+layout: default
+title: Thanks
+parent: Appendices
+nav_order: 39
+---
 # Thanks
 
 # Influences
