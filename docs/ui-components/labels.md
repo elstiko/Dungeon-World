@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Labels
-parent: UI Components
-nav_order: 3
+title: 404
+nav_exclude: true
 ---
 
 # Labels
