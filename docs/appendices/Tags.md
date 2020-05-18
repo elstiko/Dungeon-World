@@ -6,9 +6,15 @@ nav_order: 39
 ---
 # Tag Reference
 
+<a id="Ammo">
 - n Ammo (equipment): It can be used as ammunition for certain weapons. The number listed is not an exact count, but a general quantity.
+</a>
+<a id="Amorphous">
 - Amorphous (monster): Its anatomy is bizarre and unnatural.
+</a>
+<a id="Applied">
 - Applied (equipment): It’s only useful when carefully applied to a person or something they eat or drink.
+</a>
 - Arcane (steading); Someone of notable arcane power lives here.
 - n Armor (equipment): Subtract n from all damage dealt to you. If you have multiple items with n armor, you only use the highest n.
 - +n Armor (equipment): Add n to your total armor.
