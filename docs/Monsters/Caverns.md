@@ -8,7 +8,7 @@ nav_order: 26
 
 ## Ankheg 
 
-*[Group](./appendices/tags.md#Group), Large*
+*[Group](././appendices/tags.md#Group), Large*
 
 Bite \(d8+1 damage\) 10 HP 3 Armor
 
