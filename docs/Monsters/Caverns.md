@@ -12,7 +12,7 @@ nav_order: 26
 
 Bite \(d8+1 damage\) 10 HP 3 Armor
 
-*Close, Reach*
+*[Close](/Dungeon-World/docs/appendices/Tags/#Close), [Reach](/Dungeon-World/docs/appendices/Tags/#Reach)*
 
 **Special Qualities:** Burrowing
 
