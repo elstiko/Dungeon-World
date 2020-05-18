@@ -8,7 +8,7 @@ nav_order: 26
 
 ## Ankheg 
 
-*[Group](/Dungeon-World/docs/appendices/Tags.html#Group), [Large](/Dungeon-World/docs/appendices/Tags.html#Large)*
+*[Group](/Dungeon-World/docs/appendices/Tags/#Group), [Large](/Dungeon-World/docs/appendices/Tags/#Large)*
 
 Bite \(d8+1 damage\) 10 HP 3 Armor
 
