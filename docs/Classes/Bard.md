@@ -175,7 +175,7 @@ I am writing a ballad about the adventures of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 ## Advanced Moves
 
-When you gain a level from 2-5, choose from these moves.
+--**When you gain a level from 2-5, choose from these moves.**
 
 ### Healing Song
 
@@ -226,8 +226,8 @@ the move.
 Get one move from another class. Treat your level as one lower for choosing
 the move.
 
-When you gain a level from 6-10, choose from these moves or the level 2-5
-moves.
+--**When you gain a level from 6-10, choose from these moves or the level 2-5
+moves.**
 
 ### Healing Chorus
 
