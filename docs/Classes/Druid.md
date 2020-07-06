@@ -178,7 +178,7 @@ I have showed \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ a secret rite of the Land.
 
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+--**When you gain a level from 2–5, choose from these moves:**
 
 ### Hunter’s Brother
 
@@ -243,8 +243,8 @@ When you **deal damage**, take 1 balance. When you touch someone and channel
 the spirits of life you may spend balance. For each balance spent, heal 1d4
 HP.
 
-When you gain a level from 6–10, choose from these moves or the level 2–5
-moves.
+--**When you gain a level from 6–10, choose from these moves or the level 2–5
+moves:**
 
 ### Embracing No Form
 
