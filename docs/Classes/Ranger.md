@@ -172,7 +172,7 @@ Somewhere in your lineage lies mixed blood and it begins to show its presence.
 You gain the elf starting move if you took the human one at character creation
 or vice versa.
 
-When you gain a level from 2-5, choose from these moves.
+**-When you gain a level from 2-5, choose from these moves:**
 
 ### Wild Empathy
 
@@ -226,8 +226,8 @@ separate roll for each.
 
 When you **set the watch for the night**, everyone takes +1 to take watch.
 
-When you gain a level from 6-10, choose from these moves or the level 2-5
-moves.
+**-When you gain a level from 6-10, choose from these moves or the level 2-5
+moves:**
 
 ### Wild Speech
 
