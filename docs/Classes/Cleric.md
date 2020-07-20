@@ -168,7 +168,7 @@ I am working on converting \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to my faith.
 
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+**-When you gain a level from 2–5, choose from these moves:**
 
 ### Chosen One
 
@@ -226,8 +226,8 @@ When you wear no armor or shield you get 2 armor.
 When you heal someone else of damage, add your level to the amount of damage
 healed.
 
-When you gain a level from 6–10, choose from these moves or the level 2–5
-moves.
+**-When you gain a level from 6–10, choose from these moves or the level 2–5
+moves:**
 
 ### Anointed
 
