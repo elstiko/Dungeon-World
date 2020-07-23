@@ -131,7 +131,7 @@ Fill in the name of one of your companions in at least one:
 
 ## Advanced Moves
 
-**When you gain a level from 2-5, choose from these moves.**
+**-When you gain a level from 2-5, choose from these moves.**
 
 ### Still Hungry
 
@@ -181,7 +181,7 @@ When you **Discern Realities** add "What here is weak or vulnerable?" to the lis
 
 When you **defy a danger** caused by movement (maybe falling off a narrow bridge or rushing past an armed guard) take +1.
 
-**When you gain a level from 6-10, choose from these moves or the level 2-5 moves.**
+**-When you gain a level from 6-10, choose from these moves or the level 2-5 moves.**
 
 ### A Good Day To Die
 
