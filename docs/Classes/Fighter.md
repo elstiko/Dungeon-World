@@ -181,7 +181,7 @@ dungeon.
 
 ## Advanced Moves
 
-When you gain a level from 2-5, choose from these moves.
+**-When you gain a level from 2-5, choose from these moves:**
 
 ### Merciless
 
@@ -234,8 +234,8 @@ When you have access to a forge you can graft the magical powers of a weapon
 onto your signature weapon. This process destroys the magical weapon. Your
 signature weapon gains the magical powers of the destroyed weapon.
 
-When you gain a level from 6-10, choose from these moves or the level 2-5
-moves.
+**-When you gain a level from 6-10, choose from these moves or the level 2-5
+moves:**
 
 ### Bloodthirsty
 
