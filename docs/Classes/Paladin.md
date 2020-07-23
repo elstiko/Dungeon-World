@@ -151,7 +151,7 @@ them.
 
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+**-When you gain a level from 2–5, choose from these moves:**
 
 ### Divine Favor
 
@@ -204,8 +204,8 @@ Take +1 to order hirelings.
 
 When you heal an ally, you heal +1d8 damage.
 
-When you gain a level from 6–10, choose from these moves or the level 2–5
-moves.
+**-When you gain a level from 6–10, choose from these moves or the level 2–5
+moves:**
 
 ### Evidence of Faith
 
