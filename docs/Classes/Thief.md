@@ -154,7 +154,7 @@ I stole something from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 ## Advanced Moves
 
-When you gain a level from 2–5, choose from these moves.
+**-When you gain a level from 2–5, choose from these moves:**
 
 ### Cheap Shot
 
@@ -201,8 +201,8 @@ need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you’
 have to settle for something close or it comes with strings attached, your
 call.
 
-When you gain a level from 6–10, choose from these moves or the level 2–5
-moves.
+**-When you gain a level from 6–10, choose from these moves or the level 2–5
+moves:**
 
 ### Dirty Fighter
 
