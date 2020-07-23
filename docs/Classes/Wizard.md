@@ -161,8 +161,8 @@ teach them all that I can.
 
 ## Advanced Moves
 
-When you gain a level from 2-5, choose from these moves. You also add a new
-spell to your spellbook at each level.
+**-When you gain a level from 2-5, choose from these moves; You also add a new
+spell to your spellbook at each level.**
 
 ### Prodigy
 
@@ -219,8 +219,8 @@ you; if the countered spell has other targets they get its effects.
 When you **see the effects of an arcane spell**, ask the GM the name of the
 spell and its effects. You take +1 when acting on the answers.
 
-When you gain a level from 6-10, choose from these moves or the level 2-5
-moves.
+**-When you gain a level from 6-10, choose from these moves or the level 2-5
+moves:**
 
 ### Master
 
