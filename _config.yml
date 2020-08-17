@@ -39,7 +39,7 @@ aux_links:
     - "http://dungeon.world"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; Sage Kobold 2015. Released under a <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution license</a>."
+footer_content: "Dungeo World &copy; Sage Kobold 2015. Released under a <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution license</a>."
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
